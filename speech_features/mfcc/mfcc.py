@@ -26,14 +26,14 @@ from numpy.fft import fft
 from scipy.fftpack import dct
 
 
-def mfcc(frame, rate, NFFT):
+def mfcc(signal, rate, NFFT):
 
     # get periodigram power spectrum
-    complex_spectrum = fft(frame, NFFT)
+    complex_spectrum = fft(signal, NFFT)
     power_spectrum = (numpy.abs(complex_spectrum)) ** 2
     pspec = power_spectrum * 1 / NFFT
 
-    # power spectrum is symmetrical we only keep have of it
+    # power spectrum is symmetrical we only keep half of it
     pspec = pspec[0: int(len(pspec) / 2) + 1]
 
     # create filter bank
