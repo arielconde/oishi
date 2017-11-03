@@ -50,6 +50,9 @@ def run():
     plt.plot(signal)
     plt.show()
 
+def hello():
+    return "Welp"
+
 
 if __name__ == "__main__":
     run()

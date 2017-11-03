@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>oishi | Speaker Diarization</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap/css/bootstrap.min.css') }}">
+    <script src="{{ url_for('static', filename='bootstrap/js/bootstrap.min.js') }}"></script>
+    <style>
+        #header {
+            height: 100px;
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="header" class="row">
+            <div class="col-md-12">
+                <h5>oishi</h5>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h1>oishi</h1>
+                <h6>Speaker Diarization System</h6>
+                <hr>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                
+                <input type="file" hidden />
+                <button class="btn btn-primary btn-block">
+                    Upload
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
