@@ -1,0 +1,9 @@
+Waiting for operation to complete...
+Transcript: how old is the Brooklyn Bridge
+Confidence: 0.9876289963722229
+Word: how, start_time: 0.0, end_time: 0.30000000000000004
+Word: old, start_time: 0.30000000000000004, end_time: 0.6000000000000001
+Word: is, start_time: 0.6000000000000001, end_time: 0.8
+Word: the, start_time: 0.8, end_time: 0.9
+Word: Brooklyn, start_time: 0.9, end_time: 1.1
+Word: Bridge, start_time: 1.1, end_time: 1.5

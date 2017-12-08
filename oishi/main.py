@@ -28,7 +28,6 @@ def get_min_n_components(feats, min=1, max=20,
 
 def run():
     rate, signal = wav.read("../recordings/english.wav")
-    
     sigproc.preemphasis(signal)
     # filter_signal(signal)
 
