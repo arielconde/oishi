@@ -42,5 +42,5 @@ if __name__ == "__main__":
 
     # Audio files are upload to google cloud storage
 
-    uri = "gs://oishi_storage/audio/10.wav"
+    uri = "gs://oishi_storage/audio/RealisticFilm1.wav"
     transcribe_gcs_with_word_time_offsets(uri)

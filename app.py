@@ -1,6 +1,7 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 from werkzeug.utils import secure_filename
 import os
+import oishi
 
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = set(['wav'])
@@ -22,13 +23,43 @@ def index():
         file = request.files['fileWav']
         if file.filename == '':
             return "No selected file"
-        print("Okay 1")
         if file and allowed_file(file.filename):
             print("Okay")
             filename = secure_filename(file.filename)
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+            oishi.diarize()
             return "File Uploaded"
     return render_template('index.html')
+
+
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
+
+"""
+This route accepts a post request that contains a .WAV file
+for speaker diarization, named fileWav
+"""
+@app.route('/diarize', methods=['POST', 'GET'])
+def diarize_api():
+    if 'audio' not in request.files:
+        return jsonify({'message': 'No file upload.'})
+    file = request.files['audio']
+    if file.filename == '':
+        return jsonify({'message': 'No selected file.'})
+    elif file and allowed_file(file.filename):
+        filename = secure_filename(file.filename)
+        file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+        return jsonify({'result': oishi.diarize(filename)})
+    else:
+        return jsonify({'message': 'An error occured'})
+
+
+@app.route('/stubapi')
+def stubapi():
+    filename = '1.wav'
+    return jsonify({'result': oishi.diarize(filename)})
 
 
 if __name__ == "__main__":

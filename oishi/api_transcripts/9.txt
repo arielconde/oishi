@@ -1,0 +1,192 @@
+Waiting for operation to complete...
+Transcript: let's go for shopping
+Confidence: 0.7732234597206116
+Word: let's, start_time: 0.0, end_time: 0.5
+Word: go, start_time: 0.5, end_time: 0.6000000000000001
+Word: for, start_time: 0.6000000000000001, end_time: 0.8
+Word: shopping, start_time: 0.8, end_time: 0.8
+Transcript:  i didn't have the mood to go depressed
+Confidence: 0.8238917589187622
+Word: i, start_time: 2.2, end_time: 2.3
+Word: didn't, start_time: 2.3, end_time: 2.8
+Word: have, start_time: 2.8, end_time: 3.0
+Word: the, start_time: 3.0, end_time: 3.1
+Word: mood, start_time: 3.1, end_time: 3.3
+Word: to, start_time: 3.3, end_time: 3.4
+Word: go, start_time: 3.4, end_time: 3.6
+Word: depressed, start_time: 3.6, end_time: 14.6
+Transcript:  even deposited persons get depressed it is quite natural
+Confidence: 0.9021812081336975
+Word: even, start_time: 15.8, end_time: 16.3
+Word: deposited, start_time: 16.3, end_time: 16.8
+Word: persons, start_time: 16.8, end_time: 17.3
+Word: get, start_time: 17.3, end_time: 17.5
+Word: depressed, start_time: 17.5, end_time: 17.9
+Word: it, start_time: 17.9, end_time: 18.4
+Word: is, start_time: 18.4, end_time: 18.5
+Word: quite, start_time: 18.5, end_time: 18.8
+Word: natural, start_time: 18.8, end_time: 19.0
+Transcript:  i wasn't able to hit my goal
+Confidence: 0.8560835719108582
+Word: i, start_time: 22.3, end_time: 22.4
+Word: wasn't, start_time: 22.4, end_time: 23.0
+Word: able, start_time: 23.0, end_time: 23.1
+Word: to, start_time: 23.1, end_time: 23.3
+Word: hit, start_time: 23.3, end_time: 23.6
+Word: my, start_time: 23.6, end_time: 23.7
+Word: goal, start_time: 23.7, end_time: 23.8
+Transcript:  which gold ed want to achieve
+Confidence: 0.5428171753883362
+Word: which, start_time: 25.4, end_time: 25.9
+Word: gold, start_time: 25.9, end_time: 26.2
+Word: ed, start_time: 26.2, end_time: 26.4
+Word: want, start_time: 26.4, end_time: 26.6
+Word: to, start_time: 26.6, end_time: 26.7
+Word: achieve, start_time: 26.7, end_time: 26.8
+Transcript:  this month i wanted to make a good business deal with abc company but could not do
+Confidence: 0.9222187995910645
+Word: this, start_time: 28.2, end_time: 28.6
+Word: month, start_time: 28.6, end_time: 29.0
+Word: i, start_time: 29.0, end_time: 29.1
+Word: wanted, start_time: 29.1, end_time: 29.6
+Word: to, start_time: 29.6, end_time: 29.6
+Word: make, start_time: 29.6, end_time: 29.8
+Word: a, start_time: 29.8, end_time: 29.9
+Word: good, start_time: 29.9, end_time: 30.0
+Word: business, start_time: 30.0, end_time: 30.5
+Word: deal, start_time: 30.5, end_time: 30.7
+Word: with, start_time: 30.7, end_time: 30.9
+Word: abc, start_time: 30.9, end_time: 31.4
+Word: company, start_time: 31.4, end_time: 31.9
+Word: but, start_time: 31.9, end_time: 32.2
+Word: could, start_time: 32.2, end_time: 32.4
+Word: not, start_time: 32.4, end_time: 32.5
+Word: do, start_time: 32.5, end_time: 32.8
+Transcript:  solac did not fever you i'm the person i am the person who believes in hardware not in love
+Confidence: 0.9040216207504272
+Word: solac, start_time: 33.7, end_time: 34.4
+Word: did, start_time: 34.4, end_time: 34.6
+Word: not, start_time: 34.6, end_time: 34.7
+Word: fever, start_time: 34.7, end_time: 35.0
+Word: you, start_time: 35.0, end_time: 35.3
+Word: i'm, start_time: 35.3, end_time: 36.4
+Word: the, start_time: 36.4, end_time: 36.5
+Word: person, start_time: 36.5, end_time: 36.8
+Word: i, start_time: 36.8, end_time: 37.0
+Word: am, start_time: 37.0, end_time: 37.2
+Word: the, start_time: 37.2, end_time: 37.4
+Word: person, start_time: 37.4, end_time: 37.6
+Word: who, start_time: 37.6, end_time: 37.9
+Word: believes, start_time: 37.9, end_time: 38.2
+Word: in, start_time: 38.2, end_time: 38.3
+Word: hardware, start_time: 38.3, end_time: 38.8
+Word: not, start_time: 38.8, end_time: 39.2
+Word: in, start_time: 39.2, end_time: 39.3
+Word: love, start_time: 39.3, end_time: 39.6
+Transcript:  you wanted to achieve your goal but we're not able to what can be the reason
+Confidence: 0.9149492383003235
+Word: you, start_time: 40.6, end_time: 41.0
+Word: wanted, start_time: 41.0, end_time: 41.3
+Word: to, start_time: 41.3, end_time: 41.5
+Word: achieve, start_time: 41.5, end_time: 41.5
+Word: your, start_time: 41.5, end_time: 41.9
+Word: goal, start_time: 41.9, end_time: 42.2
+Word: but, start_time: 42.2, end_time: 42.4
+Word: we're, start_time: 42.4, end_time: 42.6
+Word: not, start_time: 42.6, end_time: 42.6
+Word: able, start_time: 42.6, end_time: 42.9
+Word: to, start_time: 42.9, end_time: 43.2
+Word: what, start_time: 43.2, end_time: 43.7
+Word: can, start_time: 43.7, end_time: 43.9
+Word: be, start_time: 43.9, end_time: 44.0
+Word: the, start_time: 44.0, end_time: 44.1
+Word: reason, start_time: 44.1, end_time: 44.5
+Transcript:  i think i should have been more determined i took my golightly i underestimated my competitors i did a mistake here consequently i had to see the face of defeat
+Confidence: 0.9240463376045227
+Word: i, start_time: 45.6, end_time: 45.7
+Word: think, start_time: 45.7, end_time: 46.2
+Word: i, start_time: 46.2, end_time: 46.3
+Word: should, start_time: 46.3, end_time: 46.4
+Word: have, start_time: 46.4, end_time: 46.7
+Word: been, start_time: 46.7, end_time: 46.9
+Word: more, start_time: 46.9, end_time: 47.0
+Word: determined, start_time: 47.0, end_time: 47.3
+Word: i, start_time: 47.3, end_time: 48.0
+Word: took, start_time: 48.0, end_time: 48.3
+Word: my, start_time: 48.3, end_time: 48.5
+Word: golightly, start_time: 48.5, end_time: 49.2
+Word: i, start_time: 49.2, end_time: 49.7
+Word: underestimated, start_time: 49.7, end_time: 50.6
+Word: my, start_time: 50.6, end_time: 50.8
+Word: competitors, start_time: 50.8, end_time: 51.6
+Word: i, start_time: 51.6, end_time: 52.1
+Word: did, start_time: 52.1, end_time: 52.3
+Word: a, start_time: 52.3, end_time: 52.4
+Word: mistake, start_time: 52.4, end_time: 52.5
+Word: here, start_time: 52.5, end_time: 53.2
+Word: consequently, start_time: 53.2, end_time: 53.9
+Word: i, start_time: 53.9, end_time: 54.5
+Word: had, start_time: 54.5, end_time: 54.7
+Word: to, start_time: 54.7, end_time: 54.8
+Word: see, start_time: 54.8, end_time: 54.9
+Word: the, start_time: 54.9, end_time: 55.1
+Word: face, start_time: 55.1, end_time: 55.2
+Word: of, start_time: 55.2, end_time: 55.4
+Word: defeat, start_time: 55.4, end_time: 55.8
+Transcript:  so what is your future plan
+Confidence: 0.9445807337760925
+Word: so, start_time: 57.1, end_time: 57.4
+Word: what, start_time: 57.4, end_time: 57.7
+Word: is, start_time: 57.7, end_time: 57.8
+Word: your, start_time: 57.8, end_time: 57.8
+Word: future, start_time: 57.8, end_time: 58.0
+Word: plan, start_time: 58.0, end_time: 58.5
+Transcript:  i would learn my riddler i would learn from my mistakes and i hope i will hit my next target
+Confidence: 0.8181026577949524
+Word: i, start_time: 59.6, end_time: 59.7
+Word: would, start_time: 59.7, end_time: 60.2
+Word: learn, start_time: 60.2, end_time: 60.4
+Word: my, start_time: 60.4, end_time: 60.6
+Word: riddler, start_time: 60.6, end_time: 61.4
+Word: i, start_time: 61.4, end_time: 61.5
+Word: would, start_time: 61.5, end_time: 61.8
+Word: learn, start_time: 61.8, end_time: 62.0
+Word: from, start_time: 62.0, end_time: 62.3
+Word: my, start_time: 62.3, end_time: 62.5
+Word: mistakes, start_time: 62.5, end_time: 62.5
+Word: and, start_time: 62.5, end_time: 63.1
+Word: i, start_time: 63.1, end_time: 63.2
+Word: hope, start_time: 63.2, end_time: 63.4
+Word: i, start_time: 63.4, end_time: 63.9
+Word: will, start_time: 63.9, end_time: 64.2
+Word: hit, start_time: 64.2, end_time: 64.5
+Word: my, start_time: 64.5, end_time: 64.7
+Word: next, start_time: 64.7, end_time: 65.0
+Word: target, start_time: 65.0, end_time: 65.1
+Transcript:  now you seem to be a positive mood again you like to go for shopping yes i am feeling emotionally like lets go for shopping
+Confidence: 0.8521353006362915
+Word: now, start_time: 66.3, end_time: 66.9
+Word: you, start_time: 66.9, end_time: 67.1
+Word: seem, start_time: 67.1, end_time: 67.3
+Word: to, start_time: 67.3, end_time: 67.3
+Word: be, start_time: 67.3, end_time: 67.4
+Word: a, start_time: 67.4, end_time: 67.5
+Word: positive, start_time: 67.5, end_time: 67.8
+Word: mood, start_time: 67.8, end_time: 68.2
+Word: again, start_time: 68.2, end_time: 68.4
+Word: you, start_time: 68.4, end_time: 68.9
+Word: like, start_time: 68.9, end_time: 69.1
+Word: to, start_time: 69.1, end_time: 69.1
+Word: go, start_time: 69.1, end_time: 69.2
+Word: for, start_time: 69.2, end_time: 69.4
+Word: shopping, start_time: 69.4, end_time: 69.4
+Word: yes, start_time: 69.4, end_time: 71.3
+Word: i, start_time: 71.3, end_time: 71.5
+Word: am, start_time: 71.5, end_time: 71.7
+Word: feeling, start_time: 71.7, end_time: 72.0
+Word: emotionally, start_time: 72.0, end_time: 72.7
+Word: like, start_time: 72.7, end_time: 72.9
+Word: lets, start_time: 72.9, end_time: 73.2
+Word: go, start_time: 73.2, end_time: 73.4
+Word: for, start_time: 73.4, end_time: 73.6
+Word: shopping, start_time: 73.6, end_time: 73.7

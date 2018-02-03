@@ -1,0 +1,16 @@
+Hi we are Ariel and Daryll
+We are presenting our project Oishi: A Speaker Diarization which focuses in handling the overlapping parts in a speech conversation
+So, what is Speaker Diarization. Speaker Diarization is the process of determine of who spoke when and what.
+One of the problems in Speaker Diarization is the presence of oveerlapping speakers which causes some error in the diarization process
+Our project aims to address this issue by utilizing RMS Energy for the Detection of Overlap and CNSC for labelling these overlaps
+So our system accepts an input of audio recording in .wav format
+We strict the number of speakers into 3. <Improve the reasoning here> Because an overlap in an audio recording with only two speakers will automatically identify who are the two speakers. An audio recording with 4 or more speakers that overlaps will be more of a challenge for the entire diarization process. So 3 is the minimum no of speakers to identify the effectives on CNSC in labelling the overlapping speeches.
+
+After the audio files is diarize a summary of the conversation will be displayed
+
+In the evaluation tab, we can evaluate if a given speech segment (both voiced and unvoiced) is one of the Diarization Errors
+False Alarm, Missed Speech, Speaker Error. Timestamps are shown for each segment which the evaluators will counter check againts the audio recording.
+
+In evaluating the effectiveness of RMS in detecting overlaps, the evaluator can check if the detected overlapping is really an overlap
+
+Evaluation of CNSC will fall under the Speaker Error in the DER, our tool only allows two overlapping speakers at time in a three speaker audio recording.
